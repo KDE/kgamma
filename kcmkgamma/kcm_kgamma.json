@@ -1,8 +1,10 @@
 {
     "KPlugin": {
         "Description": "A monitor calibration tool",
+        "Description[x-test]": "xxA monitor calibration toolxx",
         "Icon": "preferences-desktop-display-color",
-        "Name": "Gamma"
+        "Name": "Gamma",
+        "Name[x-test]": "xxGammaxx"
     },
     "X-DocPath": "kcontrol/kgamma5/index.html",
     "X-KDE-Init-Phase": "1",
