@@ -6,7 +6,7 @@
         "Name": "Gamma",
         "Name[x-test]": "xxGammaxx"
     },
-    "X-DocPath": "kcontrol/kgamma5/index.html",
+    "X-DocPath": "kcontrol/kgamma/index.html",
     "X-KDE-Init-Phase": "1",
     "X-KDE-Init-Symbol": "kgamma",
     "X-KDE-Keywords": "KGamma, kgamma, Gamma, gamma",
