@@ -1,13 +1,16 @@
 [Desktop Entry]
 Comment=A monitor calibration tool
+Comment[nl]=Een hulpmiddel voor het kalibreren van de monitor
 Comment[x-test]=xxA monitor calibration toolxx
 
 Name=Gamma
+Name[nl]=Gamma
 Name[x-test]=xxGammaxx
 
 X-DocPath=kcontrol/kgamma5/index.html
 Icon=preferences-desktop-display-color
 X-KDE-Keywords=KGamma, kgamma, Gamma, gamma
+X-KDE-Keywords[nl]=KGamma, kgamma, Gamma, gamma
 X-KDE-Keywords[x-test]=xxKGammaxx,xx kgammaxx,xx Gammaxx,xx gammaxx
 Type=Service
 X-KDE-ServiceTypes=KCModule
