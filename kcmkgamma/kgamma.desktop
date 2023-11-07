@@ -1,16 +1,25 @@
 [Desktop Entry]
 Comment=A monitor calibration tool
+Comment[eu]=Monitoreak kalibratzeko tresna bat
+Comment[ka]=ეკრანის კალიბრაციის პროგრამა
 Comment[nl]=Een hulpmiddel voor het kalibreren van de monitor
+Comment[sv]=Ett kalibreringsverktyg för bildskärmar
 Comment[x-test]=xxA monitor calibration toolxx
 
 Name=Gamma
+Name[eu]=Gamma
+Name[ka]=გამა
 Name[nl]=Gamma
+Name[sv]=Gamma
 Name[x-test]=xxGammaxx
 
 X-DocPath=kcontrol/kgamma5/index.html
 Icon=preferences-desktop-display-color
 X-KDE-Keywords=KGamma, kgamma, Gamma, gamma
+X-KDE-Keywords[eu]=KGamma, kgamma, Gamma, gamma
+X-KDE-Keywords[ka]=KGamma, kgamma, გამა, კგამა
 X-KDE-Keywords[nl]=KGamma, kgamma, Gamma, gamma
+X-KDE-Keywords[sv]=KGamma, kgamma, Gamma, gamma
 X-KDE-Keywords[x-test]=xxKGammaxx,xx kgammaxx,xx Gammaxx,xx gammaxx
 Type=Service
 X-KDE-ServiceTypes=KCModule
