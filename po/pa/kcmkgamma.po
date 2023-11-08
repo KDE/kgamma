@@ -1,20 +1,17 @@
-# translation of kgamma.po to Swedish
-# Översättning kgamma.po till Svenska
-# Copyright (C) 2003, 2007 Free Software Foundation, Inc.
+# translation of kgamma.po to Punjabi
 #
-# Karolina Lindqvist <karolinl@tiscali.se>, 2003.
-# Karolina Lindqvist <pgd-karolinali@algonet.se>, 2003.
-# Mattias Newzella <newzella@linux.nu>, 2003.
-# Stefan Asserhäll <stefan.asserhall@bredband.net>, 2007.
+# Amanpreet Singh Alam <aalam@redhat.com>, 2005.
+# Amanpreet Singh Alam <amanpreetalam@yahoo.com>, 2005.
+# A S Alam <aalam@users.sf.net>, 2007.
 msgid ""
 msgstr ""
 "Project-Id-Version: kgamma\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-06-12 00:46+0000\n"
-"PO-Revision-Date: 2007-04-01 08:20+0200\n"
-"Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
-"Language-Team: Swedish <sv@li.org>\n"
-"Language: sv\n"
+"PO-Revision-Date: 2007-06-20 19:05+0530\n"
+"Last-Translator: A S Alam <aalam@users.sf.net>\n"
+"Language-Team: Punjabi <punjabi-l10n@users.sf.net>\n"
+"Language: pa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -24,77 +21,77 @@ msgstr ""
 #: kgamma.cpp:132
 #, kde-format
 msgid "&Select test picture:"
-msgstr "Välj &testbild:"
+msgstr "ਟੈਸਟ ਤਸਵੀਰ ਚੁਣੋ(&S):"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "Gray Scale"
-msgstr "Gråskala"
+msgstr "ਸਲੇਟੀ ਸਕੇਲ"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "RGB Scale"
-msgstr "RGB-skala"
+msgstr "RGB ਸਕੇਲ"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "CMY Scale"
-msgstr "CMY-skala"
+msgstr "CMY ਸਕੇਲ"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "Dark Gray"
-msgstr "Mörkgrå"
+msgstr "ਗੂੜਾ ਸਲੇਟੀ"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "Mid Gray"
-msgstr "Mediumgrå"
+msgstr "ਮੱਧ ਸਲੇਟੀ"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "Light Gray"
-msgstr "Ljusgrå"
+msgstr "ਹਲਕਾ ਸਲੇਟੀ"
 
 #: kgamma.cpp:185
 #, kde-format
 msgid "Gamma:"
-msgstr "Gamma:"
+msgstr "ਗਾਮਾ:"
 
 #: kgamma.cpp:188
 #, kde-format
 msgid "Red:"
-msgstr "Röd:"
+msgstr "ਲਾਲ:"
 
 #: kgamma.cpp:191
 #, kde-format
 msgid "Green:"
-msgstr "Grön:"
+msgstr "ਹਰਾ:"
 
 #: kgamma.cpp:194
 #, kde-format
 msgid "Blue:"
-msgstr "Blå:"
+msgstr "ਨੀਲਾ:"
 
 #: kgamma.cpp:236
 #, kde-format
 msgid "Save settings system wide"
-msgstr "Spara inställningar för hela systemet"
+msgstr "ਸਿਸਟਮ ਲਈ ਸੈਟਿੰਗ ਸੰਭਾਲੋ"
 
 #: kgamma.cpp:240
 #, kde-format
 msgid "Sync screens"
-msgstr "Synkronisera skärmar"
+msgstr "Sync ਸਕਰੀਨਾਂ"
 
 #: kgamma.cpp:248
 #, kde-format
 msgid "Screen %1"
-msgstr "Skärm %1"
+msgstr "ਸਕਰੀਨ %1"
 
 #: kgamma.cpp:266
 #, kde-format
 msgid "Gamma correction is not supported by your graphics hardware or driver."
-msgstr "Gamma-korrektion stöds inte av grafikhårdvaran eller drivrutinen."
+msgstr "ਤੁਹਾਡੇ ਗਰਾਫਿਕਸ ਹਾਰਡਵੇਅਰ ਜਾਂ ਡਰਾਇਵਰ ਰਾਹੀਂ ਗਾਮਾ ਸੋਧ ਸਹਾਇਕ ਨਹੀਂ ਹੈ।"
 
 #: kgamma.cpp:604
 #, kde-format
@@ -108,12 +105,3 @@ msgid ""
 "own KDE settings. On multi head systems you can correct the gamma values "
 "separately for all screens."
 msgstr ""
-"<h1>Bildskärmens gamma</h1> Detta är ett verktyg för att kontrollera "
-"gammakorrektion. Använd de fyra skjutknapparna för att justera "
-"gammakorrektionen antingen som ett enda värde eller separat för den röda, "
-"gröna och blå komponenten. Du kan behöva justera ljudstyrka och kontrast för "
-"skärmen för att få ett bra resultat. Testbilderna hjälper dig att hitta rätt "
-"inställning.<br> Du kan spara inställningarna i XF86Config (behörighet som "
-"systemadministratör behövs för detta), eller i dina egna KDE-inställningar. "
-"För system med flera skärmar kan du justera gammavärden separat för varje "
-"skärm."

@@ -1,100 +1,96 @@
-# translation of kgamma.po to Swedish
-# Översättning kgamma.po till Svenska
-# Copyright (C) 2003, 2007 Free Software Foundation, Inc.
-#
-# Karolina Lindqvist <karolinl@tiscali.se>, 2003.
-# Karolina Lindqvist <pgd-karolinali@algonet.se>, 2003.
-# Mattias Newzella <newzella@linux.nu>, 2003.
-# Stefan Asserhäll <stefan.asserhall@bredband.net>, 2007.
+# translation of kcmkgamma.po to Slovak
+# Stanislav Visnovsky <visnovsky@kde.org>, 2003.
+# Michal Sulek <misurel@gmail.com>, 2009.
 msgid ""
 msgstr ""
-"Project-Id-Version: kgamma\n"
+"Project-Id-Version: kcmkgamma\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-06-12 00:46+0000\n"
-"PO-Revision-Date: 2007-04-01 08:20+0200\n"
-"Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
-"Language-Team: Swedish <sv@li.org>\n"
-"Language: sv\n"
+"PO-Revision-Date: 2009-11-21 11:31+0100\n"
+"Last-Translator: Michal Sulek <misurel@gmail.com>\n"
+"Language-Team: Slovak <kde-sk@linux.sk>\n"
+"Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 #: kgamma.cpp:132
 #, kde-format
 msgid "&Select test picture:"
-msgstr "Välj &testbild:"
+msgstr "&Testovací obrázok:"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "Gray Scale"
-msgstr "Gråskala"
+msgstr "Odtiene šedej"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "RGB Scale"
-msgstr "RGB-skala"
+msgstr "Farby RGB"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "CMY Scale"
-msgstr "CMY-skala"
+msgstr "Farby CMY"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "Dark Gray"
-msgstr "Mörkgrå"
+msgstr "Tmavá šedá"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "Mid Gray"
-msgstr "Mediumgrå"
+msgstr "Stredná šedá"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "Light Gray"
-msgstr "Ljusgrå"
+msgstr "Svetlá šedá"
 
 #: kgamma.cpp:185
 #, kde-format
 msgid "Gamma:"
-msgstr "Gamma:"
+msgstr "Gama:"
 
 #: kgamma.cpp:188
 #, kde-format
 msgid "Red:"
-msgstr "Röd:"
+msgstr "Červená:"
 
 #: kgamma.cpp:191
 #, kde-format
 msgid "Green:"
-msgstr "Grön:"
+msgstr "Zelená:"
 
 #: kgamma.cpp:194
 #, kde-format
 msgid "Blue:"
-msgstr "Blå:"
+msgstr "Modrá:"
 
 #: kgamma.cpp:236
 #, kde-format
 msgid "Save settings system wide"
-msgstr "Spara inställningar för hela systemet"
+msgstr "Uložiť nastavenie pre celý systém"
 
 #: kgamma.cpp:240
 #, kde-format
 msgid "Sync screens"
-msgstr "Synkronisera skärmar"
+msgstr "Synchronizovať obrazovky"
 
 #: kgamma.cpp:248
 #, kde-format
 msgid "Screen %1"
-msgstr "Skärm %1"
+msgstr "Obrazovka %1"
 
 #: kgamma.cpp:266
 #, kde-format
 msgid "Gamma correction is not supported by your graphics hardware or driver."
-msgstr "Gamma-korrektion stöds inte av grafikhårdvaran eller drivrutinen."
+msgstr ""
+"Gama korekcia nie je podporovaná vašou grafickou kartou alebo ovládačom."
 
 #: kgamma.cpp:604
 #, kde-format
@@ -108,12 +104,12 @@ msgid ""
 "own KDE settings. On multi head systems you can correct the gamma values "
 "separately for all screens."
 msgstr ""
-"<h1>Bildskärmens gamma</h1> Detta är ett verktyg för att kontrollera "
-"gammakorrektion. Använd de fyra skjutknapparna för att justera "
-"gammakorrektionen antingen som ett enda värde eller separat för den röda, "
-"gröna och blå komponenten. Du kan behöva justera ljudstyrka och kontrast för "
-"skärmen för att få ett bra resultat. Testbilderna hjälper dig att hitta rätt "
-"inställning.<br> Du kan spara inställningarna i XF86Config (behörighet som "
-"systemadministratör behövs för detta), eller i dina egna KDE-inställningar. "
-"För system med flera skärmar kan du justera gammavärden separat för varje "
-"skärm."
+"<h1>Gama monitora</h1> Tento nástroj umožňuje upraviť gama korekciu vášho "
+"monitora. Použite štyri posuvníky pre definíciu tejto korekcie ako jedinú "
+"hodnotu, alebo jednotlivo pre červený, zelený a modrý komponent. Možno "
+"budete potrebovať aj úpravu jasu a kontrastu vášho monitora, aby ste "
+"dosiahli kvalitný výsledok. Testovacie obrázky vám pomôžu nájsť vhodné "
+"nastavenie.<br>Výsledok môžete uložiť do systémového súboru XF86Config (je "
+"nutné heslo administrátora) alebo do vašeho nastavenia KDE. Na systémoch s "
+"viacerými obrazovkami môžete nastaviť pre každú z nich korekciu gamma "
+"samostatne."

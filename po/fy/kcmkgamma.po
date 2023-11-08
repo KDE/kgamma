@@ -1,60 +1,58 @@
-# translation of kgamma.po to Swedish
-# Översättning kgamma.po till Svenska
-# Copyright (C) 2003, 2007 Free Software Foundation, Inc.
+# translation of kgamma.po to Nederlands
+# translation of kgamma.po to
+# Copyright (C) 2003, 2004 Free Software Foundation, Inc.
+# Wilbert Berendsen <wbsoft@xs4all.nl>, 2003.
+# Rinse de Vries <rinse@kde.nl>, 2004.
 #
-# Karolina Lindqvist <karolinl@tiscali.se>, 2003.
-# Karolina Lindqvist <pgd-karolinali@algonet.se>, 2003.
-# Mattias Newzella <newzella@linux.nu>, 2003.
-# Stefan Asserhäll <stefan.asserhall@bredband.net>, 2007.
 msgid ""
 msgstr ""
 "Project-Id-Version: kgamma\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-06-12 00:46+0000\n"
-"PO-Revision-Date: 2007-04-01 08:20+0200\n"
-"Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
-"Language-Team: Swedish <sv@li.org>\n"
-"Language: sv\n"
+"PO-Revision-Date: 2004-04-15 01:26+0200\n"
+"Last-Translator: Rinse de Vries <rinse@kde.nl>\n"
+"Language-Team: Nederlands <kde-i18n-nl@kde.org>\n"
+"Language: fy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
+"X-Generator: KBabel 1.3.1\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #: kgamma.cpp:132
 #, kde-format
 msgid "&Select test picture:"
-msgstr "Välj &testbild:"
+msgstr "&Selecteer een testafbeelding:"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "Gray Scale"
-msgstr "Gråskala"
+msgstr "Grijswaarden"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "RGB Scale"
-msgstr "RGB-skala"
+msgstr "RGB-waarden"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "CMY Scale"
-msgstr "CMY-skala"
+msgstr "CMY-waarden"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "Dark Gray"
-msgstr "Mörkgrå"
+msgstr "Donker grijs"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "Mid Gray"
-msgstr "Mediumgrå"
+msgstr "Middel grijs"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "Light Gray"
-msgstr "Ljusgrå"
+msgstr "Licht grijs"
 
 #: kgamma.cpp:185
 #, kde-format
@@ -64,37 +62,40 @@ msgstr "Gamma:"
 #: kgamma.cpp:188
 #, kde-format
 msgid "Red:"
-msgstr "Röd:"
+msgstr "Rood:"
 
 #: kgamma.cpp:191
 #, kde-format
 msgid "Green:"
-msgstr "Grön:"
+msgstr "Groen:"
 
 #: kgamma.cpp:194
 #, kde-format
 msgid "Blue:"
-msgstr "Blå:"
+msgstr "Blauw:"
 
 #: kgamma.cpp:236
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Save settings to XF86Config"
 msgid "Save settings system wide"
-msgstr "Spara inställningar för hela systemet"
+msgstr "Instellingen opslaan in XF86Config"
 
 #: kgamma.cpp:240
 #, kde-format
 msgid "Sync screens"
-msgstr "Synkronisera skärmar"
+msgstr "Schermen synchroniseren"
 
 #: kgamma.cpp:248
 #, kde-format
 msgid "Screen %1"
-msgstr "Skärm %1"
+msgstr "Scherm %1"
 
 #: kgamma.cpp:266
 #, kde-format
 msgid "Gamma correction is not supported by your graphics hardware or driver."
-msgstr "Gamma-korrektion stöds inte av grafikhårdvaran eller drivrutinen."
+msgstr ""
+"Het instellen van het gamma wordt niet ondersteund door uw videokaart of "
+"stuurprogramma."
 
 #: kgamma.cpp:604
 #, kde-format
@@ -108,12 +109,15 @@ msgid ""
 "own KDE settings. On multi head systems you can correct the gamma values "
 "separately for all screens."
 msgstr ""
-"<h1>Bildskärmens gamma</h1> Detta är ett verktyg för att kontrollera "
-"gammakorrektion. Använd de fyra skjutknapparna för att justera "
-"gammakorrektionen antingen som ett enda värde eller separat för den röda, "
-"gröna och blå komponenten. Du kan behöva justera ljudstyrka och kontrast för "
-"skärmen för att få ett bra resultat. Testbilderna hjälper dig att hitta rätt "
-"inställning.<br> Du kan spara inställningarna i XF86Config (behörighet som "
-"systemadministratör behövs för detta), eller i dina egna KDE-inställningar. "
-"För system med flera skärmar kan du justera gammavärden separat för varje "
-"skärm."
+"<h1>Beeldscherm Gamma</h1> Dit is een programma voor monitorcalibratie. "
+"Gebruik de vier schuifregelaars om de gammacorrectie te definiëren als een "
+"enkelvoudige waarde, of als gescheiden waarden voor de rode, groene en "
+"blauwe componenten. Voor de beste resultaten dient u mogelijk de "
+"instellingen voor helderheid en contrast van uw monitor te corrigeren. De "
+"testafbeeldingen helpen u bij het vinden van de juiste instellingen.<br> Als "
+"de bijhorende optie is geselecteerd zullen de instellingen worden opgeslagen "
+"in het bestand XF86Config. Omdat het dan om systeemwijde instellingen gaat "
+"hebt u het wachtwoord van de root-gebruiker nodig. Anders worden de "
+"instellingen in uw eigen configuratiebestand opgeslagen. Op systemen met "
+"meerdere beeldschermen kunt u de gammacorrectie afzonderlijk voor elk scherm "
+"instellen."

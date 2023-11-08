@@ -1,60 +1,56 @@
-# translation of kgamma.po to Swedish
-# Översättning kgamma.po till Svenska
-# Copyright (C) 2003, 2007 Free Software Foundation, Inc.
-#
-# Karolina Lindqvist <karolinl@tiscali.se>, 2003.
-# Karolina Lindqvist <pgd-karolinali@algonet.se>, 2003.
-# Mattias Newzella <newzella@linux.nu>, 2003.
-# Stefan Asserhäll <stefan.asserhall@bredband.net>, 2007.
+#  <MvOstheim@web.de>, 2001.
+# Michael v.Ostheim <MvOstheim@web.de>, 2003.
+# Stephan Johach <hunsum@gmx.de>, 2003, 2004.
+# Thomas Reitelbach <tr@erdfunkstelle.de>, 2007.
+# Frederik Schwarzer <schwarzer@kde.org>, 2010, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: kgamma\n"
+"Project-Id-Version: kcmkgamma\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-06-12 00:46+0000\n"
-"PO-Revision-Date: 2007-04-01 08:20+0200\n"
-"Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
-"Language-Team: Swedish <sv@li.org>\n"
-"Language: sv\n"
+"PO-Revision-Date: 2012-05-11 11:33+0200\n"
+"Last-Translator: Frederik Schwarzer <schwarzer@kde.org>\n"
+"Language-Team: German <kde-i18n-de@kde.org>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: kgamma.cpp:132
 #, kde-format
 msgid "&Select test picture:"
-msgstr "Välj &testbild:"
+msgstr "&Testbild auswählen:"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "Gray Scale"
-msgstr "Gråskala"
+msgstr "Grauskala"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "RGB Scale"
-msgstr "RGB-skala"
+msgstr "RGB-Skala"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "CMY Scale"
-msgstr "CMY-skala"
+msgstr "CMY-Skala"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "Dark Gray"
-msgstr "Mörkgrå"
+msgstr "Dunkelgrau"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "Mid Gray"
-msgstr "Mediumgrå"
+msgstr "Mittelgrau"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "Light Gray"
-msgstr "Ljusgrå"
+msgstr "Hellgrau"
 
 #: kgamma.cpp:185
 #, kde-format
@@ -64,37 +60,39 @@ msgstr "Gamma:"
 #: kgamma.cpp:188
 #, kde-format
 msgid "Red:"
-msgstr "Röd:"
+msgstr "Rot:"
 
 #: kgamma.cpp:191
 #, kde-format
 msgid "Green:"
-msgstr "Grön:"
+msgstr "Grün:"
 
 #: kgamma.cpp:194
 #, kde-format
 msgid "Blue:"
-msgstr "Blå:"
+msgstr "Blau:"
 
 #: kgamma.cpp:236
 #, kde-format
 msgid "Save settings system wide"
-msgstr "Spara inställningar för hela systemet"
+msgstr "Einstellungen systemweit speichern"
 
 #: kgamma.cpp:240
 #, kde-format
 msgid "Sync screens"
-msgstr "Synkronisera skärmar"
+msgstr "Bildschirme abgleichen"
 
 #: kgamma.cpp:248
 #, kde-format
 msgid "Screen %1"
-msgstr "Skärm %1"
+msgstr "Bildschirm %1"
 
 #: kgamma.cpp:266
 #, kde-format
 msgid "Gamma correction is not supported by your graphics hardware or driver."
-msgstr "Gamma-korrektion stöds inte av grafikhårdvaran eller drivrutinen."
+msgstr ""
+"Gammakorrektur wird von Ihrer Grafikhardware oder dem Treiber nicht "
+"unterstützt. "
 
 #: kgamma.cpp:604
 #, kde-format
@@ -108,12 +106,13 @@ msgid ""
 "own KDE settings. On multi head systems you can correct the gamma values "
 "separately for all screens."
 msgstr ""
-"<h1>Bildskärmens gamma</h1> Detta är ett verktyg för att kontrollera "
-"gammakorrektion. Använd de fyra skjutknapparna för att justera "
-"gammakorrektionen antingen som ett enda värde eller separat för den röda, "
-"gröna och blå komponenten. Du kan behöva justera ljudstyrka och kontrast för "
-"skärmen för att få ett bra resultat. Testbilderna hjälper dig att hitta rätt "
-"inställning.<br> Du kan spara inställningarna i XF86Config (behörighet som "
-"systemadministratör behövs för detta), eller i dina egna KDE-inställningar. "
-"För system med flera skärmar kan du justera gammavärden separat för varje "
-"skärm."
+"<h1>Monitor-Gamma</h1> Dies ist ein Hilfsmittel zur Gammakorrektur Ihres "
+"Monitors. Benutzen Sie die vier Schieberegler, um den Gamma-Korrekturfaktor "
+"entweder als Gesamtwert, oder separat für die Rot-, Grün- und Blaukomponente "
+"einzustellen. Möglicherweise müssen Sie die Helligkeits- und "
+"Kontrasteinstellungen Ihres Monitors korrigieren, um gute Ergebnisse zu "
+"erhalten. Die Testbilder helfen Ihnen, einwandfreie Resultate zu erzielen."
+"<br>Sie können die Einstellungen in der systemweiten Konfigurationsdatei "
+"speichern (Sie benötigen dazu Systemverwalterrechte), oder in Ihren "
+"persönlichen KDE-Benutzereinstellungen. Auf Systemen mit mehr als einem "
+"Bildschirm können Sie die Einstellungen für jeden Schirm separat festlegen."

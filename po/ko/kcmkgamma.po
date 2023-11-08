@@ -1,100 +1,97 @@
-# translation of kgamma.po to Swedish
-# Översättning kgamma.po till Svenska
-# Copyright (C) 2003, 2007 Free Software Foundation, Inc.
+# Translation of kgamma to Korean.
+# Copyright (C) 2007 This_file_is_part_of_KDE
+# This file is distributed under the same license as the kdegraphics package.
+# Shinjo Park <kde@peremen.name>, 2007, 2020.
 #
-# Karolina Lindqvist <karolinl@tiscali.se>, 2003.
-# Karolina Lindqvist <pgd-karolinali@algonet.se>, 2003.
-# Mattias Newzella <newzella@linux.nu>, 2003.
-# Stefan Asserhäll <stefan.asserhall@bredband.net>, 2007.
 msgid ""
 msgstr ""
 "Project-Id-Version: kgamma\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-06-12 00:46+0000\n"
-"PO-Revision-Date: 2007-04-01 08:20+0200\n"
-"Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
-"Language-Team: Swedish <sv@li.org>\n"
-"Language: sv\n"
+"PO-Revision-Date: 2020-04-04 11:52+0200\n"
+"Last-Translator: Shinjo Park <kde@peremen.name>\n"
+"Language-Team: Korean <kde-kr@kde.org>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 19.04.3\n"
 
 #: kgamma.cpp:132
 #, kde-format
 msgid "&Select test picture:"
-msgstr "Välj &testbild:"
+msgstr "테스트 그림 선택(&S):"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "Gray Scale"
-msgstr "Gråskala"
+msgstr "그레이스케일"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "RGB Scale"
-msgstr "RGB-skala"
+msgstr "RGB 스케일"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "CMY Scale"
-msgstr "CMY-skala"
+msgstr "CMY 스케일"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "Dark Gray"
-msgstr "Mörkgrå"
+msgstr "어두운 회색"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "Mid Gray"
-msgstr "Mediumgrå"
+msgstr "중간 회색"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "Light Gray"
-msgstr "Ljusgrå"
+msgstr "밝은 회색"
 
 #: kgamma.cpp:185
 #, kde-format
 msgid "Gamma:"
-msgstr "Gamma:"
+msgstr "감마:"
 
 #: kgamma.cpp:188
 #, kde-format
 msgid "Red:"
-msgstr "Röd:"
+msgstr "빨간색:"
 
 #: kgamma.cpp:191
 #, kde-format
 msgid "Green:"
-msgstr "Grön:"
+msgstr "녹색:"
 
 #: kgamma.cpp:194
 #, kde-format
 msgid "Blue:"
-msgstr "Blå:"
+msgstr "파란색:"
 
 #: kgamma.cpp:236
 #, kde-format
 msgid "Save settings system wide"
-msgstr "Spara inställningar för hela systemet"
+msgstr "시스템 전역으로 설정 저장"
 
 #: kgamma.cpp:240
 #, kde-format
 msgid "Sync screens"
-msgstr "Synkronisera skärmar"
+msgstr "화면 동기화"
 
 #: kgamma.cpp:248
 #, kde-format
 msgid "Screen %1"
-msgstr "Skärm %1"
+msgstr "화면 %1"
 
 #: kgamma.cpp:266
 #, kde-format
 msgid "Gamma correction is not supported by your graphics hardware or driver."
-msgstr "Gamma-korrektion stöds inte av grafikhårdvaran eller drivrutinen."
+msgstr "그래픽 하드웨어나 드라이버에서 감마 보정을 지원하지 않습니다."
 
 #: kgamma.cpp:604
 #, kde-format
@@ -108,12 +105,10 @@ msgid ""
 "own KDE settings. On multi head systems you can correct the gamma values "
 "separately for all screens."
 msgstr ""
-"<h1>Bildskärmens gamma</h1> Detta är ett verktyg för att kontrollera "
-"gammakorrektion. Använd de fyra skjutknapparna för att justera "
-"gammakorrektionen antingen som ett enda värde eller separat för den röda, "
-"gröna och blå komponenten. Du kan behöva justera ljudstyrka och kontrast för "
-"skärmen för att få ett bra resultat. Testbilderna hjälper dig att hitta rätt "
-"inställning.<br> Du kan spara inställningarna i XF86Config (behörighet som "
-"systemadministratör behövs för detta), eller i dina egna KDE-inställningar. "
-"För system med flera skärmar kan du justera gammavärden separat för varje "
-"skärm."
+"<h1>모니터 감마</h1> 이 도구는 모니터 감마를 보정하는 도구입니다. 슬라이더 "
+"네 개를 사용해서 감마를 수정할 수 있습니다. 단일 값을 조정하거나, 빨간색, 녹"
+"색, 파란색 값을 따로 조정할 수 있습니다. 모니터의 밝기나 명암 설정을 조정해"
+"서 좋은 결과를 얻을 수 있습니다. 테스트 그림을 사용하면 올바른 설정을 찾을 "
+"수 있습니다.<br />루트 권한이 있다면 시스템 전역 설정을 XF86Config에 쓸 수 있"
+"으며, 로컬 KDE 설정에도 쓸 수 있습니다. 다중 모니터 시스템에서는 각각 모니터"
+"별로 감마 값을 보정할 수 있습니다."

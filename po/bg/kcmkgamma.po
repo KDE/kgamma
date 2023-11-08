@@ -1,98 +1,96 @@
 # Copyright (C) YEAR This_file_is_part_of_KDE
 # This file is distributed under the same license as the PACKAGE package.
 #
-# Freek de Kruijf <freekdekruijf@kde.nl>, 2015, 2018.
+# Zlatko Popov <zlatkopopov@fsa-bg.org>, 2006, 2007.
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: kgamma\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-06-12 00:46+0000\n"
-"PO-Revision-Date: 2018-08-08 16:22+0100\n"
-"Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
-"Language-Team: Dutch <kde-i18n-nl@kde.org>\n"
-"Language: nl\n"
+"PO-Revision-Date: 2007-07-23 09:00+0000\n"
+"Last-Translator: Zlatko Popov <zlatkopopov@fsa-bg.org>\n"
+"Language-Team: Bulgarian <dict@linux.zonebg.com>\n"
+"Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 2.0\n"
 
 #: kgamma.cpp:132
 #, kde-format
 msgid "&Select test picture:"
-msgstr "Test afbeelding &selecteren:"
+msgstr "&Избор на тестово изображение:"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "Gray Scale"
-msgstr "Grijsschaal"
+msgstr "Степени на сивото"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "RGB Scale"
-msgstr "RGB-schaal"
+msgstr "Степени на RGB"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "CMY Scale"
-msgstr "CMY-schaal"
+msgstr "Степени на CMY"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "Dark Gray"
-msgstr "Donkergrijs"
+msgstr "Тъмносиво"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "Mid Gray"
-msgstr "Middelgrijs"
+msgstr "Средносиво"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "Light Gray"
-msgstr "Lichtgrijs"
+msgstr "Светлосиво"
 
 #: kgamma.cpp:185
 #, kde-format
 msgid "Gamma:"
-msgstr "Gamma:"
+msgstr "Гама:"
 
 #: kgamma.cpp:188
 #, kde-format
 msgid "Red:"
-msgstr "Rood:"
+msgstr "Червено:"
 
 #: kgamma.cpp:191
 #, kde-format
 msgid "Green:"
-msgstr "Groen:"
+msgstr "Зелено:"
 
 #: kgamma.cpp:194
 #, kde-format
 msgid "Blue:"
-msgstr "Blauw:"
+msgstr "Синьо:"
 
 #: kgamma.cpp:236
 #, kde-format
 msgid "Save settings system wide"
-msgstr "Instellingen systeembreed opslaan"
+msgstr "Запис на настройките на системата"
 
 #: kgamma.cpp:240
 #, kde-format
 msgid "Sync screens"
-msgstr "Schermen synchroniseren"
+msgstr "Синхронизиране на екраните"
 
 #: kgamma.cpp:248
 #, kde-format
 msgid "Screen %1"
-msgstr "Scherm %1"
+msgstr "Екран %1"
 
 #: kgamma.cpp:266
 #, kde-format
 msgid "Gamma correction is not supported by your graphics hardware or driver."
-msgstr ""
-"Gamma-correctie wordt niet ondersteund door uw grafische hardware of "
-"stuurprogramma."
+msgstr "Гама корекцията не се поддържа от вашата графична карта или драйвер."
 
 #: kgamma.cpp:604
 #, kde-format
@@ -106,12 +104,10 @@ msgid ""
 "own KDE settings. On multi head systems you can correct the gamma values "
 "separately for all screens."
 msgstr ""
-"<h1>Monitor Gamma</h1> Dit is een hulpmiddel voor het wijzigen van de "
-"gammacorrectie van de monitor. Gebruik de vier schuifregelaars om de "
-"gammacorrectie ofwel als een enkele waarde of separaat voor de rode, groene "
-"en blauwe componenten te definiëren. Het is misschien nodig om de "
-"instellingen voor helderheid en contrast van uw monitor te corrigeren voor "
-"goede resultaten. De testafbeeldingen helpen u om de juiste instellingen te "
-"vinden.<br> U kunt ze systeembreed in XF86Config opslaan (hiervoor is "
-"toegang van root vereist) of tot uw eigen KDE instellingen. Op systemen met "
-"meer schermen kunt u de gammawaarden apart voor alle schermen corrigeren."
+"<h1>Гама корекция</h1> От тук може да промените гама корекцията на вашия "
+"монитор. Използвайте тестовото изображение, за да намерите оптималните "
+"настройки. Пробвайте да промените настройките на монитора за контраст и "
+"яркост. Те също указват влияние. <br>Може да запишете настройките в "
+"системния файл XF86Config. За тази операция са ви необходими "
+"администраторски права. Също така, може да запишете настройките в KDE. "
+"<br>На система с няколко монитора може да настроите мониторите отделно."

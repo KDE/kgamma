@@ -1,35 +1,34 @@
-# translation of kgamma.po to Swedish
-# Översättning kgamma.po till Svenska
-# Copyright (C) 2003, 2007 Free Software Foundation, Inc.
+# Translation of kcmkgamma to Norwegian Bokmål
 #
-# Karolina Lindqvist <karolinl@tiscali.se>, 2003.
-# Karolina Lindqvist <pgd-karolinali@algonet.se>, 2003.
-# Mattias Newzella <newzella@linux.nu>, 2003.
-# Stefan Asserhäll <stefan.asserhall@bredband.net>, 2007.
+# Knut Yrvin <knut.yrvin@gmail.com>, 2003.
+# Bjørn Steensrud <bjornst@skogkatt.homelinux.org>, 2004.
 msgid ""
 msgstr ""
 "Project-Id-Version: kgamma\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-06-12 00:46+0000\n"
-"PO-Revision-Date: 2007-04-01 08:20+0200\n"
-"Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
-"Language-Team: Swedish <sv@li.org>\n"
-"Language: sv\n"
+"PO-Revision-Date: 2008-02-06 20:45+0100\n"
+"Last-Translator: MagicPO 0.3 (automated)\n"
+"Language-Team: Norwegian Bokmål <l10n-no@lister.huftis.org>\n"
+"Language: nb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
+"X-Generator: MagicPO 0.3\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Environment: kde\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
 
 #: kgamma.cpp:132
 #, kde-format
 msgid "&Select test picture:"
-msgstr "Välj &testbild:"
+msgstr "&Velg testbilde:"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "Gray Scale"
-msgstr "Gråskala"
+msgstr "Gråtoner"
 
 #: kgamma.cpp:137
 #, kde-format
@@ -44,17 +43,17 @@ msgstr "CMY-skala"
 #: kgamma.cpp:137
 #, kde-format
 msgid "Dark Gray"
-msgstr "Mörkgrå"
+msgstr "Mørk grå"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "Mid Gray"
-msgstr "Mediumgrå"
+msgstr "Medium grå"
 
 #: kgamma.cpp:137
 #, kde-format
 msgid "Light Gray"
-msgstr "Ljusgrå"
+msgstr "Lysegrå"
 
 #: kgamma.cpp:185
 #, kde-format
@@ -64,12 +63,18 @@ msgstr "Gamma:"
 #: kgamma.cpp:188
 #, kde-format
 msgid "Red:"
-msgstr "Röd:"
+msgstr ""
+"Rød:2007-Oct-01 14:19:16\t20.6K\tapplication/octet-streamWilliam Redman "
+"Carter 4.html\t2007-Oct-01 14:19:17\t21.0K\tapplication/octet-streamWilliam "
+"Redman Carter 5.html\t2007-Oct-01 14:19:18\t20.5K\tapplication/octet-"
+"streamWilliam Redman Carter 6.html\t2007-Oct-01 14:19:19\t22.7K\tapplication/"
+"octet-streamWilliam Redman Carter 7.html\t2007-Oct-05 "
+"05:41:01\t22.2K\tapplication/octet-streamWilliam Redman Carter 8"
 
 #: kgamma.cpp:191
 #, kde-format
 msgid "Green:"
-msgstr "Grön:"
+msgstr "Grønn:"
 
 #: kgamma.cpp:194
 #, kde-format
@@ -79,22 +84,22 @@ msgstr "Blå:"
 #: kgamma.cpp:236
 #, kde-format
 msgid "Save settings system wide"
-msgstr "Spara inställningar för hela systemet"
+msgstr "Lagre innstillingene for alle brukere"
 
 #: kgamma.cpp:240
 #, kde-format
 msgid "Sync screens"
-msgstr "Synkronisera skärmar"
+msgstr "Synkroniser skjermer"
 
 #: kgamma.cpp:248
 #, kde-format
 msgid "Screen %1"
-msgstr "Skärm %1"
+msgstr "Skjerm %1"
 
 #: kgamma.cpp:266
 #, kde-format
 msgid "Gamma correction is not supported by your graphics hardware or driver."
-msgstr "Gamma-korrektion stöds inte av grafikhårdvaran eller drivrutinen."
+msgstr "Gammakorreksjon støttes ikke av grafikkutstyret eller driveren din."
 
 #: kgamma.cpp:604
 #, kde-format
@@ -108,12 +113,11 @@ msgid ""
 "own KDE settings. On multi head systems you can correct the gamma values "
 "separately for all screens."
 msgstr ""
-"<h1>Bildskärmens gamma</h1> Detta är ett verktyg för att kontrollera "
-"gammakorrektion. Använd de fyra skjutknapparna för att justera "
-"gammakorrektionen antingen som ett enda värde eller separat för den röda, "
-"gröna och blå komponenten. Du kan behöva justera ljudstyrka och kontrast för "
-"skärmen för att få ett bra resultat. Testbilderna hjälper dig att hitta rätt "
-"inställning.<br> Du kan spara inställningarna i XF86Config (behörighet som "
-"systemadministratör behövs för detta), eller i dina egna KDE-inställningar. "
-"För system med flera skärmar kan du justera gammavärden separat för varje "
-"skärm."
+"<h1>Skjerm-gamma</h1> Dette er et verktøy som endrer gamma-korreksjonen på "
+"skjermen. Bruk de fire gliderne til å definere gammakorreksjonen enten som "
+"en enkelt verdi, eller separat for den røde, grønne og blå komponenten. For "
+"å få best resultat må kanskje lysstyrke og kontrast-innstillingene på "
+"skjermen justeres. Prøvebildene hjelper til å finne de beste innstillingene."
+"<br/> Innstillingene kan lagres for alle brukere i XF86Config (root-tilgang "
+"trengs til dette) eller til dine egne KDE-innstillinger. På systemer med "
+"flere skjermer kan gamma-verdiene stilles inn separat for hver skjerm."
