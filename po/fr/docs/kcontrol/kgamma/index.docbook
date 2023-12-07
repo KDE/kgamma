@@ -56,15 +56,15 @@
 <para
 >Il vous permet de modifier la correction gamma du moniteur du &X-Server;. Mais ce n'est pas tout. Pour de bons résultats, vous devez régler la luminosité correcte, la balance de contraste et de couleur de votre moniteur. Cela peut être difficile, et vous devez répéter chaque étape plusieurs fois. Pour obtenir des résultats parfaits, vous avez besoin d'un vraiment bon (et cher) écran.</para>
 <para
->Utilisez les quatre curseurs pour définir la correction gamma, soit comme une simple valeur, soit en valeurs séparées pour les composants rouge, vert et bleu. Les réglages par défaut du &X-Server; pour le gamma est 1,00 (&Mac; 1,80, WinXX 2,20). Les images de test vous aident à trouver de bons réglages.</para>
+>Utilisez les quatre curseurs pour définir la correction gamma, soit comme une simple valeur, soit en valeurs séparées pour les composants rouge, vert et bleu. Les réglages par défaut du &X-Server; pour le gamma est 1,00 (&Mac; 1,80, Winxx 2,20). Les images de test vous aident à trouver de bons réglages.</para>
 <para
->Pour enregistrer les réglages gamma pour tout le système, activez la fonction <guilabel
->Save settings system wide</guilabel
->. Les réglages du système seront restaurés au prochain démarrage du &X-Server;. Vous avez besoin d'être superutilisateur pour accéder à cette option. Utilisez ceci si vous voulez corriger les réglages gamma pour tous les utilisateurs et environnements graphiques sur cette machine.</para>
+>Pour enregistrer les réglages de gamma pour tout le système, activez la fonction <guilabel
+>Enregistrer la configuration pour l'ensemble du système</guilabel
+>. Les réglages du système seront restaurés au prochain démarrage du &X-Server;. Vous avez besoin d'être administrateur pour accéder à cette option. Utilisez ceci si vous voulez corriger les réglages gamma pour tous les utilisateurs et environnements graphiques sur cette machine.</para>
 <para
 >Pour enregistrer les réglages gamma dans votre configuration personnelle de &plasma;, n'activez pas cette option. Les réglages utilisateur seront restaurés au prochain démarrage de &plasma; et remplaceront temporairement les réglages « gamma » du système. Les réglages du système ne sont pas supprimés par cela et seront restaurés au prochain démarrage du &X-Server;.</para>
 <para
->Sur les systèmes multitêtes, sélectionnez l'écran que vous voulez modifier avec la liste déroulante. Ceci fonctionnera aussi avec le mode xinerama. Si vous voulez régler tous les écrans avec les mêmes valeurs gamma, activez l'option <guilabel
+>Sur les systèmes multi-écrans, sélectionnez l'écran que vous voulez modifier avec la liste déroulante. Ceci fonctionnera aussi avec le mode xinerama. Si vous voulez régler tous les écrans avec les mêmes valeurs gamma, activez l'option <guilabel
 >Synchro des écrans</guilabel
 >. Sur les systèmes avec un seul écran, cette option n'aura pas d'effet.</para>
 </sect1>
