@@ -1,20 +1,22 @@
-# translation of kgamma.po to 
+# translation of kgamma.po to
 # Copyright (C) 2004 Free Software Foundation, Inc.
 # Ambalam <tamilpc@ambalam.com>, 2004.
 #
+# SPDX-FileCopyrightText: 2023 Kishore G <kishore96@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: kgamma\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-11-05 10:43+0000\n"
-"PO-Revision-Date: 2004-08-14 12:34+0530\n"
-"Last-Translator: I. Felix <ifelix25@yahoo.co.in>\n"
-"Language-Team:  <tamilpc@ambalam.com>\n"
+"PO-Revision-Date: 2023-12-07 21:12+0530\n"
+"Last-Translator: Kishore G <kishore96@gmail.com>\n"
+"Language-Team: Tamil <kde-i18n-doc@kde.org>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 23.08.3\n"
 
 #: kgamma.cpp:132
 #, kde-format
@@ -72,9 +74,9 @@ msgid "Blue:"
 msgstr "நீலம்:"
 
 #: kgamma.cpp:236
-#, fuzzy, kde-format
+#, kde-format
 msgid "Save settings system wide"
-msgstr "அமைப்புகள் எக்ச்எப்86சி உள்ளமைவு சேமி "
+msgstr "கணினி முழுவதற்கும் அமைப்புகளை சேமி"
 
 #: kgamma.cpp:240
 #, kde-format
