@@ -70,7 +70,7 @@
 <para
 >&X-Server;'ın monitörün gama düzeltmesini değiştirmenize izin verir. Yapılacak tek şey bu değilidir. İyi sonuçlar için monitörünüzde doğru parlaklık, karşıtlık ve renk dengesini ayarlamanız gerekir. Bu zor olabilir ve her adımı birkaç kez yinelemeniz gerekebilir. Mükemmel sonuçlar için gerçekten iyi (ve pahalı) bir donanıma gereksiniminiz vardır.</para>
 <para
->Gama düzeltmesini tek bir değer olarak veya kırmızı, yeşil ve mavi bileşenler için ayrı ayrı tanımlamak üzere dört kaydırıcıyı kullanın. &X-Server; gaması için öntanımlı ayar 1,00'dir (&Mac; 1.80, WinXX 2.20). Sınama görselleri, uygun ayarları bulmanıza yardımcı olur.</para>
+>Gama düzeltmesini tek bir değer olarak veya kırmızı, yeşil ve mavi bileşenler için ayrı ayrı tanımlamak üzere dört kaydırıcıyı kullanın. &X-Server; gaması için öntanımlı ayar 1,00’dir (&Mac; 1.80, WinXX 2.20). Sınama görselleri, uygun ayarları bulmanıza yardımcı olur.</para>
 <para
 >Gama ayarlarını sistem genelinde kaydetmek için <guilabel
 >Ayarları sistem geneli için kaydet</guilabel
