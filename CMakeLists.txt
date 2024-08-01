@@ -19,6 +19,7 @@ include(KDECompilerSettings NO_POLICY_SCOPE)
 include(FeatureSummary)
 include(KDEClangFormat)
 include(KDEGitCommitHooks)
+include(ECMDeprecationSettings)
 
 find_package(Qt6 ${QT_MIN_VERSION} CONFIG REQUIRED COMPONENTS Core Gui Widgets)
 
@@ -37,8 +38,10 @@ add_feature_info("X11_xf86vmode" X11_xf86vmode_FOUND "Required to build kgamma."
 
 include_directories(${CMAKE_CURRENT_BINARY_DIR})
 
-add_definitions(-DQT_DISABLE_DEPRECATED_BEFORE=0x050f02)
-add_definitions(-DKF_DISABLE_DEPRECATED_BEFORE_AND_AT=0x055900)
+ecm_set_disabled_deprecation_versions(QT 6.7.0
+    KF 6.4.0
+)
+
 
 add_subdirectory(kcmkgamma)
 # add_subdirectory(xf86gammacfg)
