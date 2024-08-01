@@ -87,8 +87,7 @@
         "Name[zh_HK]": "伽馬（Gamma）"
     },
     "X-DocPath": "kcontrol/kgamma/index.html",
-    "X-KDE-Init-Phase": "1",
-    "X-KDE-Init-Symbol": "kgamma",
+    "X-KDE-Init-Phase": 1,
     "X-KDE-Keywords": "KGamma, kgamma, Gamma, gamma",
     "X-KDE-Keywords[ar]": "جاما,KGamma, kgamma, Gamma, gamma",
     "X-KDE-Keywords[az]": "KGamma, kgamma, Gamma, gamma",
@@ -150,7 +149,6 @@
     "X-KDE-OnlyShowOnQtPlatforms": [
         "xcb"
     ],
-    "X-KDE-ParentApp": "kcontrol",
     "X-KDE-System-Settings-Parent-Category": "display",
     "X-KDE-Test-Module": "true"
 }
