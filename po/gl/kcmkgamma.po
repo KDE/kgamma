@@ -4,22 +4,22 @@
 # Xabi G. Feal <xabigf@gmx.net>, 2006.
 # mvillarino <mvillarino@users.sourceforge.net>, 2007.
 # Marce Villarino <mvillarino@gmail.com>, 2009.
-# Adrian Chaves <adrian@chaves.io>, 2018, 2020.
+# SPDX-FileCopyrightText: 2018, 2020, 2024 Adrian Chaves <adrian@chaves.io>
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: kgamma\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-11-08 09:49+0000\n"
-"PO-Revision-Date: 2020-01-05 18:36+0100\n"
+"PO-Revision-Date: 2024-08-10 14:13+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
-"Language-Team: Galician <kde-i18n-doc@kde.org>\n"
+"Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
 "Language: gl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 19.08.3\n"
+"X-Generator: Lokalize 24.05.2\n"
 
 #: kgamma.cpp:132
 #, kde-format
@@ -116,5 +116,5 @@ msgstr ""
 "corrixir luminosidade e contraste do monitor para obter uns bos resultados. "
 "A imaxes de proba axudarano a atopar a configuración axeitada.<br> Pode "
 "gardalos en XF86Config (ten que acceder como administrador para facer iso) "
-"ou na súa configuración de KDE. Nos sistemas multipantalla pode corrixir os "
-"valores da gama por separado para cada unha das pantallas."
+"ou na súa configuración de KDE. Nos sistemas de varias pantallas pode "
+"corrixir os valores da gama por separado para cada unha das pantallas."
