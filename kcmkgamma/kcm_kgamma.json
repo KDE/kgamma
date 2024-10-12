@@ -177,6 +177,7 @@
     "X-KDE-Keywords[tr]": "KGamma, kgamma, gamma, gama",
     "X-KDE-Keywords[uk]": "KGamma,kgamma,Gamma,gamma,гама,рівень,контрастність,рівень контрастності",
     "X-KDE-Keywords[vi]": "KGamma,kgamma,Gamma,gamma",
+    "X-KDE-Keywords[zh_CN]": "KGamma, kgamma, Gamma, gamma, gama, gamazhi, 伽马, 伽玛, 伽玛值",
     "X-KDE-Keywords[zh_TW]": "KGamma, kgamma, Gamma, gamma",
     "X-KDE-OnlyShowOnQtPlatforms": [
         "xcb"
