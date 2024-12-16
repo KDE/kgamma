@@ -38,8 +38,8 @@ add_feature_info("X11_xf86vmode" X11_xf86vmode_FOUND "Required to build kgamma."
 
 include_directories(${CMAKE_CURRENT_BINARY_DIR})
 
-ecm_set_disabled_deprecation_versions(QT 6.7.0
-    KF 6.4.0
+ecm_set_disabled_deprecation_versions(QT 6.8.1
+    KF 6.9.0
 )
 
 
