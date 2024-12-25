@@ -21,15 +21,24 @@ include(KDEClangFormat)
 include(KDEGitCommitHooks)
 include(ECMDeprecationSettings)
 
+option(BUILD_DOC "Whether to build the documentation" ON)
+
 find_package(Qt6 ${QT_MIN_VERSION} CONFIG REQUIRED COMPONENTS Core Gui Widgets)
 
 find_package(KF6 ${KF6_MIN_VERSION} REQUIRED COMPONENTS
     Config
     ConfigWidgets
-    DocTools
     I18n
     KCMUtils
 )
+
+if (BUILD_DOC)
+    find_package(KF6DocTools ${KF6_MIN_VERSION})
+    set_package_properties(KF6DocTools PROPERTIES
+        DESCRIPTION "Tools to generate documentation"
+        TYPE REQUIRED
+    )
+endif()
 
 find_package(X11 REQUIRED COMPONENTS xf86vmode)
 
@@ -45,8 +54,11 @@ ecm_set_disabled_deprecation_versions(QT 6.8.1
 
 add_subdirectory(kcmkgamma)
 # add_subdirectory(xf86gammacfg)
-add_subdirectory(doc)
-kdoctools_install(po)
+
+if (BUILD_DOC)
+    add_subdirectory(doc)
+    kdoctools_install(po)
+endif()
 
 # add clang-format target for all our real source files
 file(GLOB_RECURSE ALL_CLANG_FORMAT_SOURCE_FILES *.cpp *.h)
