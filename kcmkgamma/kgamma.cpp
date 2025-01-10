@@ -124,7 +124,6 @@ KGamma::~KGamma()
 void KGamma::setupUI()
 {
     QBoxLayout *topLayout = new QVBoxLayout(widget());
-    topLayout->setContentsMargins(0, 0, 0, 0);
 
     if (GammaCorrection) {
         QHBoxLayout *hbox = new QHBoxLayout();
@@ -142,7 +141,6 @@ void KGamma::setupUI()
         hbox->addStretch();
 
         QStackedWidget *stack = new QStackedWidget(widget());
-        stack->setFrameStyle(QFrame::Box | QFrame::Raised);
 
         connect(combo, QOverload<int>::of(&QComboBox::activated), stack, &QStackedWidget::setCurrentIndex);
 
@@ -178,6 +176,10 @@ void KGamma::setupUI()
         stack->insertWidget(5, pic6);
 
         topLayout->addWidget(stack, 10);
+
+        auto horizontalSeparator = new QFrame();
+        horizontalSeparator->setFrameStyle(QFrame::HLine);
+        topLayout->addWidget(horizontalSeparator);
 
         // Sliders for gamma correction
 
@@ -231,7 +233,6 @@ void KGamma::setupUI()
         // Options
         QWidget *options = new QWidget(widget());
         QHBoxLayout *optionsHBoxLayout = new QHBoxLayout(options);
-        optionsHBoxLayout->setContentsMargins(0, 0, 0, 0);
 
         xf86cfgbox = new QCheckBox(i18n("Save settings system wide"), options);
         optionsHBoxLayout->addWidget(xf86cfgbox);

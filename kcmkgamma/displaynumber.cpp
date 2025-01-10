@@ -17,9 +17,6 @@ DisplayNumber::DisplayNumber(QWidget *parent, int digits, int prec)
 {
     setPrecision(prec);
     setWidth(digits);
-
-    setFrameStyle(QFrame::Panel | QFrame::Sunken);
-    setBackgroundRole(QPalette::Base);
     setAlignment(Qt::AlignCenter);
     setFocusPolicy(Qt::NoFocus);
 }
