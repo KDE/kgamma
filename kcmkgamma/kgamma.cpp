@@ -98,25 +98,6 @@ KGamma::KGamma(QObject *parent, const KPluginMetaData &data)
 
 KGamma::~KGamma()
 {
-    // Restore the old gamma settings, if the user has not saved
-    // and there is no valid kgammarc.
-    // Existing user settings overwrite system settings
-    if (GammaCorrection) {
-        // Do not emit signals during destruction (bug 221611)
-        bool blocked = blockSignals(true);
-        if (loadUserSettings()) {
-            load();
-        } else if (!saved) {
-            for (int i = 0; i < ScreenCount; i++) {
-                xv->setScreen(i);
-                xv->setGamma(XVidExtWrap::Red, rbak[i]);
-                xv->setGamma(XVidExtWrap::Green, gbak[i]);
-                xv->setGamma(XVidExtWrap::Blue, bbak[i]);
-            }
-        }
-        delete rootProcess;
-        blockSignals(blocked);
-    }
     delete xv;
 }
 
