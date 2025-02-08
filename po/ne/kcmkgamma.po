@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kgamma\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-05 10:43+0000\n"
+"POT-Creation-Date: 2025-02-08 00:42+0000\n"
 "PO-Revision-Date: 2007-08-20 12:28+0545\n"
 "Last-Translator: Nabin Gautam <nabin@mpp.org.np>\n"
 "Language-Team: Nepali <info@mpp.org.np>\n"
@@ -17,77 +17,77 @@ msgstr ""
 "\n"
 "X-Generator: KBabel 1.11.4\n"
 
-#: kgamma.cpp:132
+#: kgamma.cpp:131
 #, kde-format
 msgid "&Select test picture:"
 msgstr "परीक्षण तस्वीर चयन गर्नुहोस्:"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:136
 #, kde-format
 msgid "Gray Scale"
 msgstr "ग्रेस्केल"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:136
 #, kde-format
 msgid "RGB Scale"
 msgstr "RGB स्केल"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:136
 #, kde-format
 msgid "CMY Scale"
 msgstr "CMY स्केल"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:136
 #, kde-format
 msgid "Dark Gray"
 msgstr "गाढा खैरो"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:136
 #, kde-format
 msgid "Mid Gray"
 msgstr "मध्यम खैरो"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:136
 #, kde-format
 msgid "Light Gray"
 msgstr "हलुका खैरो"
 
-#: kgamma.cpp:185
+#: kgamma.cpp:187
 #, kde-format
 msgid "Gamma:"
 msgstr "गामा:"
 
-#: kgamma.cpp:188
+#: kgamma.cpp:190
 #, kde-format
 msgid "Red:"
 msgstr "रातो:"
 
-#: kgamma.cpp:191
+#: kgamma.cpp:193
 #, kde-format
 msgid "Green:"
 msgstr "हरियो:"
 
-#: kgamma.cpp:194
+#: kgamma.cpp:196
 #, kde-format
 msgid "Blue:"
 msgstr "निलो:"
 
-#: kgamma.cpp:236
+#: kgamma.cpp:237
 #, kde-format
 msgid "Save settings system wide"
 msgstr "हरेक प्रणालीको सेटिङ बचत गर्नुहोस्"
 
-#: kgamma.cpp:240
+#: kgamma.cpp:241
 #, kde-format
 msgid "Sync screens"
 msgstr "पर्दा समक्रमण गर्नुहोस्"
 
-#: kgamma.cpp:248
+#: kgamma.cpp:249
 #, kde-format
 msgid "Screen %1"
 msgstr "%1 पर्दा"
 
-#: kgamma.cpp:266
+#: kgamma.cpp:267
 #, kde-format
 msgid "Gamma correction is not supported by your graphics hardware or driver."
 msgstr "तपाईँको ग्राफिक्स हार्डवयर वा ड्राइभरद्वारा गामा सुधार समर्थन गर्दैन ।"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kgamma\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-05 10:43+0000\n"
+"POT-Creation-Date: 2025-02-08 00:42+0000\n"
 "PO-Revision-Date: 2009-02-26 15:24+0530\n"
 "Last-Translator: Ravishankar Shrivastava <raviratlami@aol.in>\n"
 "Language-Team: Hindi <kde-i18n-doc@lists.kde.org>\n"
@@ -19,77 +19,77 @@ msgstr ""
 "X-Generator: Lokalize 0.2\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 
-#: kgamma.cpp:132
+#: kgamma.cpp:131
 #, kde-format
 msgid "&Select test picture:"
 msgstr "जांच फोटू चुनव: (&S)"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:136
 #, kde-format
 msgid "Gray Scale"
 msgstr "ग्रे-स्केल"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:136
 #, kde-format
 msgid "RGB Scale"
 msgstr "आरजीबी स्केल"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:136
 #, kde-format
 msgid "CMY Scale"
 msgstr "सीएमवाय स्केल"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:136
 #, kde-format
 msgid "Dark Gray"
 msgstr "गाढ़ा धूसर"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:136
 #, kde-format
 msgid "Mid Gray"
 msgstr "मध्यम धूसर"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:136
 #, kde-format
 msgid "Light Gray"
 msgstr "हल्का धूसर"
 
-#: kgamma.cpp:185
+#: kgamma.cpp:187
 #, kde-format
 msgid "Gamma:"
 msgstr "गामाः"
 
-#: kgamma.cpp:188
+#: kgamma.cpp:190
 #, kde-format
 msgid "Red:"
 msgstr "लाल:"
 
-#: kgamma.cpp:191
+#: kgamma.cpp:193
 #, kde-format
 msgid "Green:"
 msgstr "हरियर:"
 
-#: kgamma.cpp:194
+#: kgamma.cpp:196
 #, kde-format
 msgid "Blue:"
 msgstr "नीलाः"
 
-#: kgamma.cpp:236
+#: kgamma.cpp:237
 #, kde-format
 msgid "Save settings system wide"
 msgstr "सेटिंग ल पूरा तंत्र बर सहेजव"
 
-#: kgamma.cpp:240
+#: kgamma.cpp:241
 #, kde-format
 msgid "Sync screens"
 msgstr "सिंक स्क्रीन्स"
 
-#: kgamma.cpp:248
+#: kgamma.cpp:249
 #, kde-format
 msgid "Screen %1"
 msgstr "स्क्रीन %1"
 
-#: kgamma.cpp:266
+#: kgamma.cpp:267
 #, kde-format
 msgid "Gamma correction is not supported by your graphics hardware or driver."
 msgstr "आप मन के ग्राफिक साफ्टवेयर या हार्डवेयर से गामा सुधार समर्थित नइ हे."

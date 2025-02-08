@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmkgamma\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-05 10:43+0000\n"
+"POT-Creation-Date: 2025-02-08 00:42+0000\n"
 "PO-Revision-Date: 2009-12-13 10:23+0200\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <translation@linux.org.ua>\n"
@@ -23,77 +23,77 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=n==1 ? 3 : n%10==1 && n%100!=11 ? 0 : n"
 "%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 
-#: kgamma.cpp:132
+#: kgamma.cpp:131
 #, kde-format
 msgid "&Select test picture:"
 msgstr "&Виберіть пробний малюнок:"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:136
 #, kde-format
 msgid "Gray Scale"
 msgstr "Градації сірого"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:136
 #, kde-format
 msgid "RGB Scale"
 msgstr "Градації RGB"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:136
 #, kde-format
 msgid "CMY Scale"
 msgstr "Градації CMY"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:136
 #, kde-format
 msgid "Dark Gray"
 msgstr "Темно-сірий"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:136
 #, kde-format
 msgid "Mid Gray"
 msgstr "Сірий"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:136
 #, kde-format
 msgid "Light Gray"
 msgstr "Світло-сірий"
 
-#: kgamma.cpp:185
+#: kgamma.cpp:187
 #, kde-format
 msgid "Gamma:"
 msgstr "Гамма:"
 
-#: kgamma.cpp:188
+#: kgamma.cpp:190
 #, kde-format
 msgid "Red:"
 msgstr "Червоний:"
 
-#: kgamma.cpp:191
+#: kgamma.cpp:193
 #, kde-format
 msgid "Green:"
 msgstr "Зелений:"
 
-#: kgamma.cpp:194
+#: kgamma.cpp:196
 #, kde-format
 msgid "Blue:"
 msgstr "Синій:"
 
-#: kgamma.cpp:236
+#: kgamma.cpp:237
 #, kde-format
 msgid "Save settings system wide"
 msgstr "Зберегти параметри для всієї системи"
 
-#: kgamma.cpp:240
+#: kgamma.cpp:241
 #, kde-format
 msgid "Sync screens"
 msgstr "Синхронізувати екрани"
 
-#: kgamma.cpp:248
+#: kgamma.cpp:249
 #, kde-format
 msgid "Screen %1"
 msgstr "Екран %1"
 
-#: kgamma.cpp:266
+#: kgamma.cpp:267
 #, kde-format
 msgid "Gamma correction is not supported by your graphics hardware or driver."
 msgstr "Гамма-корекція не підтримується вашим обладнанням або драйвером."
