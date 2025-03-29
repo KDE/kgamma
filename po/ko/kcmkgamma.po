@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kgamma\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-05 10:43+0000\n"
+"POT-Creation-Date: 2025-03-29 02:34+0000\n"
 "PO-Revision-Date: 2020-04-04 11:52+0200\n"
 "Last-Translator: Shinjo Park <kde@peremen.name>\n"
 "Language-Team: Korean <kde-kr@kde.org>\n"
@@ -18,77 +18,77 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Lokalize 19.04.3\n"
 
-#: kgamma.cpp:132
+#: kgamma.cpp:113
 #, kde-format
 msgid "&Select test picture:"
 msgstr "테스트 그림 선택(&S):"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:118
 #, kde-format
 msgid "Gray Scale"
 msgstr "그레이스케일"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:118
 #, kde-format
 msgid "RGB Scale"
 msgstr "RGB 스케일"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:118
 #, kde-format
 msgid "CMY Scale"
 msgstr "CMY 스케일"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:118
 #, kde-format
 msgid "Dark Gray"
 msgstr "어두운 회색"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:118
 #, kde-format
 msgid "Mid Gray"
 msgstr "중간 회색"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:118
 #, kde-format
 msgid "Light Gray"
 msgstr "밝은 회색"
 
-#: kgamma.cpp:185
+#: kgamma.cpp:166
 #, kde-format
 msgid "Gamma:"
 msgstr "감마:"
 
-#: kgamma.cpp:188
+#: kgamma.cpp:169
 #, kde-format
 msgid "Red:"
 msgstr "빨간색:"
 
-#: kgamma.cpp:191
+#: kgamma.cpp:172
 #, kde-format
 msgid "Green:"
 msgstr "녹색:"
 
-#: kgamma.cpp:194
+#: kgamma.cpp:175
 #, kde-format
 msgid "Blue:"
 msgstr "파란색:"
 
-#: kgamma.cpp:236
+#: kgamma.cpp:217
 #, kde-format
 msgid "Save settings system wide"
 msgstr "시스템 전역으로 설정 저장"
 
-#: kgamma.cpp:240
+#: kgamma.cpp:221
 #, kde-format
 msgid "Sync screens"
 msgstr "화면 동기화"
 
-#: kgamma.cpp:248
+#: kgamma.cpp:229
 #, kde-format
 msgid "Screen %1"
 msgstr "화면 %1"
 
-#: kgamma.cpp:266
+#: kgamma.cpp:247
 #, kde-format
 msgid "Gamma correction is not supported by your graphics hardware or driver."
 msgstr "그래픽 하드웨어나 드라이버에서 감마 보정을 지원하지 않습니다."

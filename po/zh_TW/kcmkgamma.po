@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kgamma\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-05 10:43+0000\n"
+"POT-Creation-Date: 2025-03-29 02:34+0000\n"
 "PO-Revision-Date: 2007-05-21 17:52+0800\n"
 "Last-Translator: Franklin Weng <franklin at goodhorse dot idv dot tw>\n"
 "Language-Team: Chinese Traditional <zh-l10n@lists.linux.org.tw>\n"
@@ -17,77 +17,77 @@ msgstr ""
 "X-Generator: KBabel 1.11.4\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: kgamma.cpp:132
+#: kgamma.cpp:113
 #, kde-format
 msgid "&Select test picture:"
 msgstr "選擇測試圖片(&S)："
 
-#: kgamma.cpp:137
+#: kgamma.cpp:118
 #, kde-format
 msgid "Gray Scale"
 msgstr "灰色比例"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:118
 #, kde-format
 msgid "RGB Scale"
 msgstr "RGB 比例"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:118
 #, kde-format
 msgid "CMY Scale"
 msgstr "CMY 比例"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:118
 #, kde-format
 msgid "Dark Gray"
 msgstr "暗灰色"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:118
 #, kde-format
 msgid "Mid Gray"
 msgstr "灰色"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:118
 #, kde-format
 msgid "Light Gray"
 msgstr "亮灰色"
 
-#: kgamma.cpp:185
+#: kgamma.cpp:166
 #, kde-format
 msgid "Gamma:"
 msgstr "Gamma："
 
-#: kgamma.cpp:188
+#: kgamma.cpp:169
 #, kde-format
 msgid "Red:"
 msgstr "紅色："
 
-#: kgamma.cpp:191
+#: kgamma.cpp:172
 #, kde-format
 msgid "Green:"
 msgstr "綠色："
 
-#: kgamma.cpp:194
+#: kgamma.cpp:175
 #, kde-format
 msgid "Blue:"
 msgstr "藍色："
 
-#: kgamma.cpp:236
+#: kgamma.cpp:217
 #, kde-format
 msgid "Save settings system wide"
 msgstr "儲存為系統設定"
 
-#: kgamma.cpp:240
+#: kgamma.cpp:221
 #, kde-format
 msgid "Sync screens"
 msgstr "同步螢幕"
 
-#: kgamma.cpp:248
+#: kgamma.cpp:229
 #, kde-format
 msgid "Screen %1"
 msgstr "螢幕 %1"
 
-#: kgamma.cpp:266
+#: kgamma.cpp:247
 #, kde-format
 msgid "Gamma correction is not supported by your graphics hardware or driver."
 msgstr "您的顯示卡硬體或驅動程式不支援 Gamma 修正。"

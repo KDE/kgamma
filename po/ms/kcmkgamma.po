@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mimos\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-05 10:43+0000\n"
+"POT-Creation-Date: 2025-03-29 02:34+0000\n"
 "PO-Revision-Date: 2005-11-05 07:13+0800\n"
 "Last-Translator: MIMOS <opensource@mimos.my>\n"
 "Language-Team: Malay <kedidiemas@yahoogroups.com>\n"
@@ -15,77 +15,77 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=1;\n"
 
-#: kgamma.cpp:132
+#: kgamma.cpp:113
 #, kde-format
 msgid "&Select test picture:"
 msgstr "&Pilih gambar cuba:"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:118
 #, kde-format
 msgid "Gray Scale"
 msgstr "Skala kelabu"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:118
 #, kde-format
 msgid "RGB Scale"
 msgstr "Skala RGB"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:118
 #, kde-format
 msgid "CMY Scale"
 msgstr "Skala CMY"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:118
 #, kde-format
 msgid "Dark Gray"
 msgstr "Kelabu Gelab"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:118
 #, kde-format
 msgid "Mid Gray"
 msgstr "Kelabu Sederhana"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:118
 #, kde-format
 msgid "Light Gray"
 msgstr "Kelabu Cerah"
 
-#: kgamma.cpp:185
+#: kgamma.cpp:166
 #, kde-format
 msgid "Gamma:"
 msgstr "Gamma:"
 
-#: kgamma.cpp:188
+#: kgamma.cpp:169
 #, kde-format
 msgid "Red:"
 msgstr "Merah:"
 
-#: kgamma.cpp:191
+#: kgamma.cpp:172
 #, kde-format
 msgid "Green:"
 msgstr "Hijau:"
 
-#: kgamma.cpp:194
+#: kgamma.cpp:175
 #, kde-format
 msgid "Blue:"
 msgstr "Biru:"
 
-#: kgamma.cpp:236
+#: kgamma.cpp:217
 #, fuzzy, kde-format
 msgid "Save settings system wide"
 msgstr "Simpan seting dalam KonfigXF86"
 
-#: kgamma.cpp:240
+#: kgamma.cpp:221
 #, kde-format
 msgid "Sync screens"
 msgstr "Segerakkan skrin"
 
-#: kgamma.cpp:248
+#: kgamma.cpp:229
 #, kde-format
 msgid "Screen %1"
 msgstr "Skrin %1"
 
-#: kgamma.cpp:266
+#: kgamma.cpp:247
 #, kde-format
 msgid "Gamma correction is not supported by your graphics hardware or driver."
 msgstr ""

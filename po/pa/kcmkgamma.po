@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kgamma\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-05 10:43+0000\n"
+"POT-Creation-Date: 2025-03-29 02:34+0000\n"
 "PO-Revision-Date: 2007-06-20 19:05+0530\n"
 "Last-Translator: A S Alam <aalam@users.sf.net>\n"
 "Language-Team: Punjabi <punjabi-l10n@users.sf.net>\n"
@@ -18,77 +18,77 @@ msgstr ""
 "X-Generator: KBabel 1.11.4\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: kgamma.cpp:132
+#: kgamma.cpp:113
 #, kde-format
 msgid "&Select test picture:"
 msgstr "ਟੈਸਟ ਤਸਵੀਰ ਚੁਣੋ(&S):"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:118
 #, kde-format
 msgid "Gray Scale"
 msgstr "ਸਲੇਟੀ ਸਕੇਲ"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:118
 #, kde-format
 msgid "RGB Scale"
 msgstr "RGB ਸਕੇਲ"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:118
 #, kde-format
 msgid "CMY Scale"
 msgstr "CMY ਸਕੇਲ"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:118
 #, kde-format
 msgid "Dark Gray"
 msgstr "ਗੂੜਾ ਸਲੇਟੀ"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:118
 #, kde-format
 msgid "Mid Gray"
 msgstr "ਮੱਧ ਸਲੇਟੀ"
 
-#: kgamma.cpp:137
+#: kgamma.cpp:118
 #, kde-format
 msgid "Light Gray"
 msgstr "ਹਲਕਾ ਸਲੇਟੀ"
 
-#: kgamma.cpp:185
+#: kgamma.cpp:166
 #, kde-format
 msgid "Gamma:"
 msgstr "ਗਾਮਾ:"
 
-#: kgamma.cpp:188
+#: kgamma.cpp:169
 #, kde-format
 msgid "Red:"
 msgstr "ਲਾਲ:"
 
-#: kgamma.cpp:191
+#: kgamma.cpp:172
 #, kde-format
 msgid "Green:"
 msgstr "ਹਰਾ:"
 
-#: kgamma.cpp:194
+#: kgamma.cpp:175
 #, kde-format
 msgid "Blue:"
 msgstr "ਨੀਲਾ:"
 
-#: kgamma.cpp:236
+#: kgamma.cpp:217
 #, kde-format
 msgid "Save settings system wide"
 msgstr "ਸਿਸਟਮ ਲਈ ਸੈਟਿੰਗ ਸੰਭਾਲੋ"
 
-#: kgamma.cpp:240
+#: kgamma.cpp:221
 #, kde-format
 msgid "Sync screens"
 msgstr "Sync ਸਕਰੀਨਾਂ"
 
-#: kgamma.cpp:248
+#: kgamma.cpp:229
 #, kde-format
 msgid "Screen %1"
 msgstr "ਸਕਰੀਨ %1"
 
-#: kgamma.cpp:266
+#: kgamma.cpp:247
 #, kde-format
 msgid "Gamma correction is not supported by your graphics hardware or driver."
 msgstr "ਤੁਹਾਡੇ ਗਰਾਫਿਕਸ ਹਾਰਡਵੇਅਰ ਜਾਂ ਡਰਾਇਵਰ ਰਾਹੀਂ ਗਾਮਾ ਸੋਧ ਸਹਾਇਕ ਨਹੀਂ ਹੈ।"
