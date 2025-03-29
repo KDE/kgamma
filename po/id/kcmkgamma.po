@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-02-08 00:42+0000\n"
+"POT-Creation-Date: 2025-03-29 00:43+0000\n"
 "PO-Revision-Date: 2019-07-29 16:23+0700\n"
 "Last-Translator: Wantoyo <wantoyek@gmail.com>\n"
 "Language-Team: Indonesian <kde-i18n-doc@kde.org>\n"
@@ -16,77 +16,77 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: kgamma.cpp:131
+#: kgamma.cpp:112
 #, kde-format
 msgid "&Select test picture:"
 msgstr "&Pilih gambar uji:"
 
-#: kgamma.cpp:136
+#: kgamma.cpp:117
 #, kde-format
 msgid "Gray Scale"
 msgstr "Skala Abu"
 
-#: kgamma.cpp:136
+#: kgamma.cpp:117
 #, kde-format
 msgid "RGB Scale"
 msgstr "Skala RGB"
 
-#: kgamma.cpp:136
+#: kgamma.cpp:117
 #, kde-format
 msgid "CMY Scale"
 msgstr "Skala CMY"
 
-#: kgamma.cpp:136
+#: kgamma.cpp:117
 #, kde-format
 msgid "Dark Gray"
 msgstr "Abu Gelap"
 
-#: kgamma.cpp:136
+#: kgamma.cpp:117
 #, kde-format
 msgid "Mid Gray"
 msgstr "Abu Sedang"
 
-#: kgamma.cpp:136
+#: kgamma.cpp:117
 #, kde-format
 msgid "Light Gray"
 msgstr "Abu Terang"
 
-#: kgamma.cpp:187
+#: kgamma.cpp:168
 #, kde-format
 msgid "Gamma:"
 msgstr "Gamma:"
 
-#: kgamma.cpp:190
+#: kgamma.cpp:171
 #, kde-format
 msgid "Red:"
 msgstr "Merah:"
 
-#: kgamma.cpp:193
+#: kgamma.cpp:174
 #, kde-format
 msgid "Green:"
 msgstr "Hijau:"
 
-#: kgamma.cpp:196
+#: kgamma.cpp:177
 #, kde-format
 msgid "Blue:"
 msgstr "Biru:"
 
-#: kgamma.cpp:237
+#: kgamma.cpp:218
 #, kde-format
 msgid "Save settings system wide"
 msgstr "Simpan pengaturan sistem wide"
 
-#: kgamma.cpp:241
+#: kgamma.cpp:222
 #, kde-format
 msgid "Sync screens"
 msgstr "Sinkron layar"
 
-#: kgamma.cpp:249
+#: kgamma.cpp:230
 #, kde-format
 msgid "Screen %1"
 msgstr "Layar %1"
 
-#: kgamma.cpp:267
+#: kgamma.cpp:248
 #, kde-format
 msgid "Gamma correction is not supported by your graphics hardware or driver."
 msgstr "Koreksi gamma tidak didukung oleh driver atau hardwer grafikmu."

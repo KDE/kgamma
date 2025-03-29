@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kgamma\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-02-08 00:42+0000\n"
+"POT-Creation-Date: 2025-03-29 00:43+0000\n"
 "PO-Revision-Date: 2008-04-13 10:20+0100\n"
 "Last-Translator: Malcolm Hunter <malcolm.hunter@gmx.co.uk>\n"
 "Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
@@ -16,77 +16,77 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: kgamma.cpp:131
+#: kgamma.cpp:112
 #, kde-format
 msgid "&Select test picture:"
 msgstr "&Select test picture:"
 
-#: kgamma.cpp:136
+#: kgamma.cpp:117
 #, kde-format
 msgid "Gray Scale"
 msgstr "Grey Scale"
 
-#: kgamma.cpp:136
+#: kgamma.cpp:117
 #, kde-format
 msgid "RGB Scale"
 msgstr "RGB Scale"
 
-#: kgamma.cpp:136
+#: kgamma.cpp:117
 #, kde-format
 msgid "CMY Scale"
 msgstr "CMY Scale"
 
-#: kgamma.cpp:136
+#: kgamma.cpp:117
 #, kde-format
 msgid "Dark Gray"
 msgstr "Dark Grey"
 
-#: kgamma.cpp:136
+#: kgamma.cpp:117
 #, kde-format
 msgid "Mid Gray"
 msgstr "Mid Grey"
 
-#: kgamma.cpp:136
+#: kgamma.cpp:117
 #, kde-format
 msgid "Light Gray"
 msgstr "Light Grey"
 
-#: kgamma.cpp:187
+#: kgamma.cpp:168
 #, kde-format
 msgid "Gamma:"
 msgstr "Gamma:"
 
-#: kgamma.cpp:190
+#: kgamma.cpp:171
 #, kde-format
 msgid "Red:"
 msgstr "Red:"
 
-#: kgamma.cpp:193
+#: kgamma.cpp:174
 #, kde-format
 msgid "Green:"
 msgstr "Green:"
 
-#: kgamma.cpp:196
+#: kgamma.cpp:177
 #, kde-format
 msgid "Blue:"
 msgstr "Blue:"
 
-#: kgamma.cpp:237
+#: kgamma.cpp:218
 #, kde-format
 msgid "Save settings system wide"
 msgstr "Save settings system wide"
 
-#: kgamma.cpp:241
+#: kgamma.cpp:222
 #, kde-format
 msgid "Sync screens"
 msgstr "Sync screens"
 
-#: kgamma.cpp:249
+#: kgamma.cpp:230
 #, kde-format
 msgid "Screen %1"
 msgstr "Screen %1"
 
-#: kgamma.cpp:267
+#: kgamma.cpp:248
 #, kde-format
 msgid "Gamma correction is not supported by your graphics hardware or driver."
 msgstr "Gamma correction is not supported by your graphics hardware or driver."

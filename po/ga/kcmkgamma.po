@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdegraphics/kgamma.po\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-02-08 00:42+0000\n"
+"POT-Creation-Date: 2025-03-29 00:43+0000\n"
 "PO-Revision-Date: 2004-12-03 14:52-0500\n"
 "Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
 "Language-Team: Irish <gaeilge-gnulinux@lists.sourceforge.net>\n"
@@ -17,77 +17,77 @@ msgstr ""
 "Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n < 11 ? "
 "3 : 4\n"
 
-#: kgamma.cpp:131
+#: kgamma.cpp:112
 #, kde-format
 msgid "&Select test picture:"
 msgstr "&Roghnaigh pictiúr tástála:"
 
-#: kgamma.cpp:136
+#: kgamma.cpp:117
 #, kde-format
 msgid "Gray Scale"
 msgstr "Liathscála"
 
-#: kgamma.cpp:136
+#: kgamma.cpp:117
 #, kde-format
 msgid "RGB Scale"
 msgstr "Scála RGB"
 
-#: kgamma.cpp:136
+#: kgamma.cpp:117
 #, kde-format
 msgid "CMY Scale"
 msgstr "Scála CMY"
 
-#: kgamma.cpp:136
+#: kgamma.cpp:117
 #, kde-format
 msgid "Dark Gray"
 msgstr "Dúliath"
 
-#: kgamma.cpp:136
+#: kgamma.cpp:117
 #, kde-format
 msgid "Mid Gray"
 msgstr "Meánliath"
 
-#: kgamma.cpp:136
+#: kgamma.cpp:117
 #, kde-format
 msgid "Light Gray"
 msgstr "Fionnliath"
 
-#: kgamma.cpp:187
+#: kgamma.cpp:168
 #, kde-format
 msgid "Gamma:"
 msgstr "Gáma:"
 
-#: kgamma.cpp:190
+#: kgamma.cpp:171
 #, kde-format
 msgid "Red:"
 msgstr "Dearg:"
 
-#: kgamma.cpp:193
+#: kgamma.cpp:174
 #, kde-format
 msgid "Green:"
 msgstr "Uaine:"
 
-#: kgamma.cpp:196
+#: kgamma.cpp:177
 #, kde-format
 msgid "Blue:"
 msgstr "Gorm:"
 
-#: kgamma.cpp:237
+#: kgamma.cpp:218
 #, kde-format
 msgid "Save settings system wide"
 msgstr "Sábháil na socruithe ar fud an chórais"
 
-#: kgamma.cpp:241
+#: kgamma.cpp:222
 #, kde-format
 msgid "Sync screens"
 msgstr "Sioncrónaigh scáileáin"
 
-#: kgamma.cpp:249
+#: kgamma.cpp:230
 #, kde-format
 msgid "Screen %1"
 msgstr "Scáileán %1"
 
-#: kgamma.cpp:267
+#: kgamma.cpp:248
 #, kde-format
 msgid "Gamma correction is not supported by your graphics hardware or driver."
 msgstr "Ní thacaíonn do chrua-earraí nó do thiománaí grafaice le gáma-cheartú."
