@@ -37,7 +37,6 @@
         "Description[ta]": "திரை நிறச்சீரமைப்பு செயலி",
         "Description[tr]": "Bir monitör kalibrasyon aracı",
         "Description[uk]": "Засіб для калібрування монітора",
-        "Description[x-test]": "xxA monitor calibration toolxx",
         "Description[zh_CN]": "简易显示器校准工具",
         "Description[zh_TW]": "顯示器校準工具",
         "Icon": "preferences-desktop-display-color",
@@ -115,7 +114,6 @@
         "Name[uz@cyrillic]": "Гамма",
         "Name[uz]": "Gamma",
         "Name[vi]": "Gamma",
-        "Name[x-test]": "xxGammaxx",
         "Name[xh]": "Unobumba wesithathu konoobumba besiGrike",
         "Name[zh_CN]": "伽玛值",
         "Name[zh_HK]": "伽馬（Gamma）",
@@ -182,7 +180,6 @@
     "X-KDE-Keywords[tr]": "KGamma, kgamma, gamma, gama",
     "X-KDE-Keywords[uk]": "KGamma,kgamma,Gamma,gamma,гама,рівень,контрастність,рівень контрастності",
     "X-KDE-Keywords[vi]": "KGamma,kgamma,Gamma,gamma",
-    "X-KDE-Keywords[x-test]": "xxKGammaxx,xx kgammaxx,xx Gammaxx,xx gammaxx",
     "X-KDE-Keywords[zh_CN]": "KGamma, kgamma, Gamma, gamma, gama, gamazhi, 伽马, 伽玛, 伽玛值",
     "X-KDE-Keywords[zh_TW]": "KGamma, kgamma, Gamma, gamma",
     "X-KDE-OnlyShowOnQtPlatforms": [
