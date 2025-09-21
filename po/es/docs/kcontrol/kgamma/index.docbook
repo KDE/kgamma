@@ -190,19 +190,19 @@
 <title
 >Imagen de prueba de gris oscuro</title>
 <para
->Debería ser capaz de ver 10 rectángulos diferentes de gris oscuro dentro de una caja negra. El cuadro le muestra pasos de un 1% de negro. </para>
+>Debería ser capaz de ver 10 rectángulos diferentes de gris oscuro dentro de una caja negra. El cuadro le muestra pasos de un 1 % de negro. </para>
 </sect3>
 <sect3 id="mid-gray">
 <title
 >Imagen de prueba de gris medio</title>
 <para
->Esta imagen le muestra 11 rectángulos grises dentro de una caja 50% gris. Debería ser capaz de ver todos los rectángulos, excepto el del medio. Los rectángulos representan los pasos desde el 45% al 55% de gris. </para>
+>Esta imagen le muestra 11 rectángulos grises dentro de una caja 50 % gris. Debería ser capaz de ver todos los rectángulos, excepto el del medio. Los rectángulos representan los pasos desde el 45 % al 55 % de gris. </para>
 </sect3>
 <sect3 id="light-gray">
 <title
 >Imagen de prueba de gris claro</title>
 <para
->Debería ser capaz de ver 10 rectángulos de gris claro dentro de una caja blanca. El cuadro le muestra pasos de un 1% de blanco. </para>
+>Debería ser capaz de ver 10 rectángulos de gris claro dentro de una caja blanca. El cuadro le muestra pasos de un 1 % de blanco. </para>
 </sect3>
 </sect2>
 </sect1>
