@@ -1,8 +1,8 @@
-#  <MvOstheim@web.de>, 2001.
-# Michael v.Ostheim <MvOstheim@web.de>, 2003.
-# Stephan Johach <hunsum@gmx.de>, 2003, 2004.
-# Thomas Reitelbach <tr@erdfunkstelle.de>, 2007.
-# Frederik Schwarzer <schwarzer@kde.org>, 2010, 2012.
+# SPDX-FileCopyrightText: 2003 Michael v.Ostheim <MvOstheim@web.de>
+# <MvOstheim@web.de>, 2001.
+# SPDX-FileCopyrightText: 2003, 2004 Stephan Johach <hunsum@gmx.de>
+# SPDX-FileCopyrightText: 2007 Thomas Reitelbach <tr@erdfunkstelle.de>
+# SPDX-FileCopyrightText: 2010, 2012 Frederik Schwarzer <schwarzer@kde.org>
 msgid ""
 msgstr ""
 "Project-Id-Version: kcmkgamma\n"
