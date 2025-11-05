@@ -148,19 +148,19 @@
 <title
 >Image de test d'échelle de gris</title>
 <para
->Vous devriez pouvoir voir 10 rectangles différents de gris sombre dans une boîte noire. Le graphique vous montre des pas de 1 % à partir du noir. </para>
+>Vous devriez pouvoir voir 10 rectangles différents de gris sombre dans une boite noire. Le graphique vous montre des pas de 1 % à partir du noir. </para>
 </sect3>
 <sect3 id="mid-gray">
 <title
 >Image de test gris moyen</title>
 <para
->Vous devriez pouvoir voir 11 rectangles différents de gris dans une boîte à 50 % de gris. Vous devriez être capable de voir tous les rectangles sauf celui du milieu. Les rectangles représentent des niveaux de 45 % à 55 % de gris. </para>
+>Vous devriez pouvoir voir 11 rectangles différents de gris dans une boite à 50 % de gris. Vous devriez être capable de voir tous les rectangles sauf celui du milieu. Les rectangles représentent des niveaux de 45 % à 55 % de gris. </para>
 </sect3>
 <sect3 id="light-gray">
 <title
 >Image de test du gris clair</title>
 <para
->Vous devriez pouvoir voir 10 rectangles différents de gris clair dans une boîte blanche. Le graphique vous montre des pas de 1 % à partir du blanc. </para>
+>Vous devriez pouvoir voir 10 rectangles différents de gris clair dans une boite blanche. Le graphique vous montre des pas de 1 % à partir du blanc. </para>
 </sect3>
 </sect2>
 </sect1>
