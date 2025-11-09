@@ -55,7 +55,7 @@ msgstr "亮调灰对比"
 #: kgamma.cpp:168
 #, kde-format
 msgid "Gamma:"
-msgstr "伽玛值："
+msgstr "伽马："
 
 #: kgamma.cpp:171
 #, kde-format
@@ -90,4 +90,4 @@ msgstr "屏幕 %1"
 #: kgamma.cpp:248
 #, kde-format
 msgid "Gamma correction is not supported by your graphics hardware or driver."
-msgstr "您的图形硬件或驱动程序不支持伽玛值校正。"
+msgstr "您的图形硬件或驱动程序不支持伽马校正。"
