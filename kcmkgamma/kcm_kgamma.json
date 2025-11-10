@@ -117,7 +117,7 @@
         "Name[uz]": "Gamma",
         "Name[vi]": "Gamma",
         "Name[xh]": "Unobumba wesithathu konoobumba besiGrike",
-        "Name[zh_CN]": "伽玛值",
+        "Name[zh_CN]": "伽马",
         "Name[zh_HK]": "伽馬（Gamma）",
         "Name[zh_TW]": "Gamma"
     },
@@ -182,7 +182,7 @@
     "X-KDE-Keywords[tr]": "KGamma, kgamma, gamma, gama",
     "X-KDE-Keywords[uk]": "KGamma,kgamma,Gamma,gamma,гама,рівень,контрастність,рівень контрастності",
     "X-KDE-Keywords[vi]": "KGamma,kgamma,Gamma,gamma",
-    "X-KDE-Keywords[zh_CN]": "KGamma, kgamma, Gamma, gamma, gama, gamazhi, 伽马, 伽玛, 伽玛值",
+    "X-KDE-Keywords[zh_CN]": "KGamma, kgamma, Gamma, gamma, gama, gamazhi, 伽马, 伽玛, 伽马值",
     "X-KDE-Keywords[zh_TW]": "KGamma, kgamma, Gamma, gamma",
     "X-KDE-OnlyShowOnQtPlatforms": [
         "xcb"
