@@ -42,7 +42,7 @@
 </authorgroup>
 
 <date
->2015-07-31</date>
+>2015‒07‒31</date>
 <releaseinfo
 >Plasma 5.4</releaseinfo>
 
@@ -68,9 +68,9 @@
 <para
 >Bu modül, monitör gamasını düzeltmek için bir araçtır. Düzgün gama ayarlarıyla monitörünüzdeki web siteler, görseller, &etc;, başka monitörlerdekiyle aynı görünecektir.</para>
 <para
->&X-Server;'ın monitörün gama düzeltmesini değiştirmenize izin verir. Yapılacak tek şey bu değilidir. İyi sonuçlar için monitörünüzde doğru parlaklık, karşıtlık ve renk dengesini ayarlamanız gerekir. Bu zor olabilir ve her adımı birkaç kez yinelemeniz gerekebilir. Mükemmel sonuçlar için gerçekten iyi (ve pahalı) bir donanıma gereksiniminiz vardır.</para>
+>&X-Server;’ın monitörün gama düzeltmesini değiştirmenize izin verir. Yapılacak tek şey bu değilidir. İyi sonuçlar için monitörünüzde doğru parlaklık, karşıtlık ve renk dengesini ayarlamanız gerekir. Bu zor olabilir ve her adımı birkaç kez yinelemeniz gerekebilir. Mükemmel sonuçlar için gerçekten iyi (ve pahalı) bir donanıma gereksiniminiz vardır.</para>
 <para
->Gama düzeltmesini tek bir değer olarak veya kırmızı, yeşil ve mavi bileşenler için ayrı ayrı tanımlamak üzere dört kaydırıcıyı kullanın. &X-Server; gaması için öntanımlı ayar 1,00’dir (&Mac; 1.80, WinXX 2.20). Sınama görselleri, uygun ayarları bulmanıza yardımcı olur.</para>
+>Gama düzeltmesini tek bir değer olarak veya kırmızı, yeşil ve mavi bileşenler için ayrı ayrı tanımlamak üzere dört sürgüyü kullanın. &X-Server; gaması için öntanımlı ayar 1,00’dir (&Mac; 1.80, WinXX 2.20). Sınama görselleri, uygun ayarları bulmanıza yardımcı olur.</para>
 <para
 >Gama ayarlarını sistem genelinde kaydetmek için <guilabel
 >Ayarları sistem geneli için kaydet</guilabel
@@ -115,13 +115,13 @@
 <para
 >20 bölümün tümünü göremiyorsanız bunu düzeltmek için monitörünüzün karşıtlık ayarlarıyla veya <guilabel
 >Gama:</guilabel
-> kaydırıcısıyla oynayın. Siyahlar saf siyah değilse monitöyü karartmayı, beyazlar saf beyaz değilse açmayı deneyin. Gri tonlarda başka bir rengin izlerini görüyorsanız monitörünüzün renk dengesi ayarlarını veya <guilabel
+> sürgüsüyle oynayın. Siyahlar saf siyah değilse monitöyü karartmayı, beyazlar saf beyaz değilse açmayı deneyin. Gri tonlarda başka bir rengin izlerini görüyorsanız monitörünüzün renk dengesi ayarlarını veya <guilabel
 >Kırmızı:</guilabel
 >, <guilabel
 >Yeşil:</guilabel
 > ve <guilabel
 >Mavi:</guilabel
-> kaydırıcılarıyla oynayın.</para>
+> sürgüleriyle oynayın.</para>
 </sect2>
 
 <sect2 id="RGB-Scale">
@@ -168,7 +168,7 @@
 <title
 >Orta Gri Sınama Resmi</title>
 <para
->Bu resim size %​50 gri bir kutu içinde 11 gri dikdörtgen gösterir. Ortadaki dışında, tüm dikdörtgenleri görebilmeniz gerekir. Dikdörtgenler, %​45-%​55 gri arasındaki adımları temsil eder. </para>
+>Bu resim size %​50 gri bir kutu içinde 11 gri dikdörtgen gösterir. Ortadaki dışında, tüm dikdörtgenleri görebilmeniz gerekir. Dikdörtgenler, %​45–%​55 gri arasındaki adımları temsil eder. </para>
 </sect3>
 <sect3 id="light-gray">
 <title
