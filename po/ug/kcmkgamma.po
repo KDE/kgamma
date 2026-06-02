@@ -8,19 +8,20 @@ msgstr ""
 "Project-Id-Version: kcmkgamma\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-11-17 11:53+0000\n"
-"PO-Revision-Date: 2013-09-08 07:05+0900\n"
-"Last-Translator: Gheyret Kenji <gheyret@gmail.com>\n"
+"PO-Revision-Date: 2026-05-31 18:30-0400\n"
+"Last-Translator: Abduqadir Abliz <sahranbay@gmail.com>\n"
 "Language-Team: Uyghur Computer Science Association <UKIJ@yahoogroups.com>\n"
 "Language: ug\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.9\n"
 
 #: kgamma.cpp:112
 #, kde-format
 msgid "&Select test picture:"
-msgstr "&Select test picture:"
+msgstr ""
 
 #: kgamma.cpp:117
 #, kde-format
@@ -85,7 +86,7 @@ msgstr ""
 #: kgamma.cpp:230
 #, kde-format
 msgid "Screen %1"
-msgstr "ئېكران %1"
+msgstr "%1-ئېكران‎‏"
 
 #: kgamma.cpp:248
 #, kde-format
