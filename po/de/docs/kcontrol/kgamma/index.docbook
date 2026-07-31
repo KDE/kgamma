@@ -82,24 +82,24 @@
 <para
 >Dieses Modul ist ein Werkzeug zum Korrigieren der Gamma-Werte Ihres Monitors. Mit den richtigen Gammawerten zeigt Ihr Bildschirm Webseiten, Bilder &etc; genauso an wie andere Monitore.</para>
 <para
->Sie können die &X-Server;-Gammakorrektur des Monitors ändern. Aber das ist noch nicht alles. Um gute Resultate zu erzielen, müssen Sie die korrekten Werte für Helligkeit, Kontrast und Farbskalierung setzen. Das ist sehr schwierig und Sie werden die einzelnen Schritte mehrmals wiederholen müssen. Für perfekte Ergebnisse brauchen Sie wirklich gute (und teure) Hardware.</para>
+>Sie können die &X-Server;-Gammakorrektur des Monitors ändern. Aber das ist noch nicht alles. Um gute Resultate zu erzielen, müssen Sie die korrekten Werte für Helligkeit, Kontrast und Farbskalierung setzen. Das ist sehr schwierig und Sie werden die einzelnen Schritte mehrmals wiederholen müssen. Für perfekte Ergebnisse benötigen Sie wirklich gute (und teure) Hardware.</para>
 <para
->Benutzen Sie die vier Regler um die Gammakorrektur entweder insgesamt oder für Rot, Grün und Blau einzeln einzustellen. Der Standardwert vom &X-Server; für Gamma ist 1,00 (Auf &Mac;s ist es 1,80, unter Windows XX 2,20). Die Testbilder helfen Ihnen die korrekten Einstellungen zu finden.</para>
+>Verwenden Sie die vier Regler um die Gammakorrektur entweder insgesamt oder für Rot, Grün und Blau einzeln einzustellen. Der Standardwert vom &X-Server; für Gamma ist 1,00 (Auf &Mac;s ist es 1,80, unter Windows XX 2,20). Die Testbilder helfen Ihnen die korrekten Einstellungen zu finden.</para>
 <para
 >Um die Gammawerte systemweit zu speichern, aktivieren Sie das Kästchen <guilabel
 >Einstellungen systemweit speichern</guilabel
->. Die Einstellungen werden dann nach einem Neustart des &X-Server;s übernommen. Sie brauchen Systemverwalter-Rechte, wenn Sie diese Option nutzen wollen. Benutzen Sie diese Funktion, wenn Sie die Gammakorrektur für alle Benutzer und grafische Anwendungen auf diesem Computer übernehmen wollen.</para>
+>. Die Einstellungen werden dann nach einem Neustart des &X-Server;s übernommen. Sie benötigen Systemverwalter-Rechte, wenn Sie diese Option nutzen möchten. Verwenden Sie diese Funktion, wenn Sie die Gammakorrektur für alle Benutzer und grafische Anwendungen auf diesem Computer übernehmen möchten.</para>
 <para
 >Um die Gammawerte nur für Ihre eigene Konfiguration von &plasma; zu verwenden, lassen Sie diese Funktion deaktiviert. Diese persönlichen Einstellungen des Benutzers werden nach dem nächsten Start von &plasma; wirksam und ersetzen dann die systemweiten Einstellungen der Gammawerte. Die Systemwerte werden nicht entfernt oder verändert und beim nächsten Starts des &X-Server;s wieder verwendet.</para>
 <para
->Auf Systemen mit mehreren Bildschirmen wählen Sie den Schirm, dessen Werte Sie ändern wollen, mit dem Kombinationsfeld in der unteren rechten Ecke. Das funktioniert auch, wenn Xinerama aktiviert ist. Wenn Sie alle Bildschirme auf dieselben Gammawerte einstellen wollen, aktivieren Sie <guilabel
+>Auf Systemen mit mehreren Bildschirmen wählen Sie den Schirm, dessen Werte Sie ändern möchten, mit dem Kombinationsfeld in der unteren rechten Ecke. Das funktioniert auch, wenn Xinerama aktiviert ist. Wenn Sie alle Bildschirme auf dieselben Gammawerte einstellen möchten, aktivieren Sie <guilabel
 >Bildschirme synchronisieren</guilabel
 >. Auf Systemen mit nur einem Bildschirm hat das keine Auswirkung.</para>
 </sect1>
 
 <sect1 id="using_test_images">
 <title
->Testbilder benutzen</title>
+>Testbilder verwenden</title>
 <para
 >Dieses Modul enthält sechs verschiedene Testbilder, die aus dem Auswahlfeld oben im Dialog ausgewählt werden können.</para>
 <sect2 id="grey">
@@ -127,9 +127,9 @@
 </itemizedlist>
 
 <para
->Wenn Sie nicht alle der 20 Abschnitte sehen können, benutzen Sie die Kontrasteinstellungen des Bildschirms oder den <guilabel
+>Wenn Sie nicht alle der 20 Abschnitte sehen können, verwenden Sie die Kontrasteinstellungen des Bildschirms oder den <guilabel
 >Gamma</guilabel
->regler um dies zu korrigieren. Wenn die schwarze Fläche nicht vollkommen schwarz ist, versuchen Sie die Helligkeit des Bildschirms zu verringern. Ist die weiße Fläche nicht völlig weiß, versuchen Sie die Helligkeit zu erhöhen. Wenn Sie irgendwelche Farben in den Grautönen sehen, verändern Sie die Farbeinstellungen Ihres Monitors oder benutzen Sie die <guilabel
+>regler um dies zu korrigieren. Wenn die schwarze Fläche nicht vollkommen schwarz ist, versuchen Sie die Helligkeit des Bildschirms zu verringern. Ist die weiße Fläche nicht völlig weiß, versuchen Sie die Helligkeit zu erhöhen. Wenn Sie irgendwelche Farben in den Grautönen sehen, verändern Sie die Farbeinstellungen Ihres Monitors oder verwenden Sie die <guilabel
 >Rot</guilabel
 >-, <guilabel
 >Grün</guilabel
