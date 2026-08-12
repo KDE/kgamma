@@ -95,7 +95,7 @@ msgstr "الشاشة %1"
 #: kgamma.cpp:248
 #, kde-format
 msgid "Gamma correction is not supported by your graphics hardware or driver."
-msgstr "تصحيح جاما ليس مدعوماً من قِبَل عتاد الرسومات أو المشغِّل لديك."
+msgstr "تصحيح جاما ليس مدعومًا من قِبَل عتاد الرسومات أو المشغِّل لديك."
 
 #~ msgid ""
 #~ "<h1>Monitor Gamma</h1> This is a tool for changing monitor gamma "
